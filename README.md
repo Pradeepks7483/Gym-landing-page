@@ -18,7 +18,7 @@ This is a responsive **Gym Landing Page** built using **HTML and CSS**. The webp
 ## How to Run the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/gym-landing-page.git
+   https://github.com/Pradeepks7483/Gym-landing-page.git
    ```
 2. Navigate to the project folder:
    ```sh
