@@ -22,7 +22,7 @@ This is a responsive **Gym Landing Page** built using **HTML and CSS**. The webp
    ```
 2. Navigate to the project folder:
    ```sh
-   cd gym-landing-page
+   cd gym landing page
    ```
 3. Open `index.html` in your preferred web browser.
 
